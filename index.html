@@ -96,6 +96,22 @@
 	<div id="footer">
         Made by Esteban Gomez Cifuentes with GitHub Pages
     </div>
+	
+	 <script>
+        // JavaScript to handle background image change on button hover
+        const buttons = document.querySelectorAll('.button');
+
+        buttons.forEach(button => {
+            button.addEventListener('mouseenter', () => {
+                const backgroundImage = button.style.backgroundImage;
+                document.body.style.backgroundImage = backgroundImage;
+            });
+
+            button.addEventListener('mouseleave', () => {
+                document.body.style.backgroundImage = "url('images/white-painted-wall-texture-background.jpg')";
+            });
+        });
+    </script>
 
 </body>
 </html>
