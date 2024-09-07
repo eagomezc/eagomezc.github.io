@@ -146,7 +146,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Powered by https://github.com/sproogen/modern-resume-theme
+references_title: Powered by sproogen/resume-theme
 
 # Build settings
 remote_theme: sproogen/resume-theme
