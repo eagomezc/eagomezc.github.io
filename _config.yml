@@ -35,10 +35,10 @@ content:
   - title: Repositories # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
       # Repository 1
+      - layout: top-middle
         title: Machine learning and rheumatoid arthritis treatments
-        # link: github.com/sproogen
+        link: github.com/eagomezc/Machine-Learning-and-RA-treatment
         # link_text: Project Website
         additional_links:
           - title: Machine-Learning-and-RA-treatment
@@ -50,8 +50,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           This repository contains the script used to study blood pro-resolving mediators as biomarkers to predict the response of DMARD treatment in rheumatoid arthritis patients.
       # Repository 2
+      - layout: top-middle
         title: Machine learning and rheumatoid arthritis treatments
-        # link: github.com/sproogen
+        link: github.com/eagomezc/Machine-Learning-and-RA-treatment
         # link_text: Project Website
         additional_links:
           - title: Machine-Learning-and-RA-treatment
@@ -62,7 +63,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           This repository contains the script used to study blood pro-resolving mediators as biomarkers to predict the response of DMARD treatment in rheumatoid arthritis patients.
-
+      
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
