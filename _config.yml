@@ -79,9 +79,9 @@ content:
           This repository contains the scripts used to run the differential gene expression, GO enrichment and correlation analysis for the paper: "Enriched marine oils supplements increase peripheral blood SPM concentrations and reprogram host immune responses: A randomized double-blind placebo-controlled study"
           
   - title: Experience # Title for the section
-    # Experience 1
     layout: list # Type of content section (list/text)
     content:
+        # Experience 1
       - layout: left
         title: Lipid Mediator Unit, QMUL
         link: jdallilab.com/
@@ -113,7 +113,7 @@ content:
  
  - title: Education # Title for the section
     #Education 1
-    - layout: list # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Queen Mary University of London
@@ -127,8 +127,7 @@ content:
           <mark>Supervision experience</mark>: I mentored three master's students who were doing their master's dissertations in bioinformatics at QMUL. 
     
     #Education 2
-    - layout: left
-    content:
+      - layout: left
         title: Queen Mary University of London
         caption: 2017 - 2018
         sub_title: MSc. Bioinformatics
