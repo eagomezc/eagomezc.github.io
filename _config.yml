@@ -94,7 +94,20 @@ content:
          <mark>Network analysis</mark>: I created small tools for the design of biosynthetic networks (Cytoscape, R Shiny) to identify different responses to treatments and up or down-regulation of immunological pathways.
          <mark>Creative problem solving</mark>: The Lipid Mediator Unit is a multidisciplinary team that includes immunologists, chemists and biologists who rely on me to help them with multivariate analysis, statistics, gene expression analysis, data visualization, etc.
          <mark>Lab skills</mark>: As bioinformaticians, it’s important to know where the data comes from; for that reason, I received training in mass spectrometry, flow cytometry, cell isolation and cell culture assays. 
-   
+        
+    # Experience 2
+      - layout: left
+        title: Prospection and Design of Biomolecules group, UNAL
+        link: ciencias.medellin.unal.edu.co/gruposdeinvestigacion/prospeccionydisenobiomoleculas/
+        sub_title: Researcher
+        caption: 2015 - 2017
+        quote: >
+          Fast learner, Proactive, Team work, bioinformatics and databases tools
+        description: | # this will include new lines to allow paragraphs
+          <mark>Fast learner</mark>: From scratch, I curated and designed a database of antimicrobial peptides (InverPep). I had to learn strategies to organize, curate and build the database. In addition to this, I developed a friendly user interface. 
+          <mark>Proactive</mark>: The identification of bioactive peptides in proteomes was done manually. I developed a tool (PepMultiFinder) that based on physicochemical properties automatically identifies antimicrobial peptides. 
+ 
+ 
 # Footer
 footer_show_references: true
 #references_title: References on request (Override references text)
