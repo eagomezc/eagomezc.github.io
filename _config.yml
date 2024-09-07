@@ -42,7 +42,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title: Machine-Learning-and-RA-treatment
-            icon: fab fa-github
+            icon: fab fa-solid fa-folder
             url: github.com/eagomezc/Machine-Learning-and-RA-treatment
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
