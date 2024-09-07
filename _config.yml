@@ -111,7 +111,21 @@ content:
           
           <mark>Proactive</mark>: The identification of bioactive peptides in proteomes was done manually. I developed a tool (PepMultiFinder) that based on physicochemical properties automatically identifies antimicrobial peptides. 
  
- 
+ - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+        #Education 1
+      - layout: left
+        title: Queen Mary University of London
+        caption: 2019 - 2024
+        sub_title: PhD Biochemical Pharmacology
+        quote: >
+         Doctor of Philosophy (Focused in Bioinformatics). 
+        description: | # this will include new lines to allow paragraphs
+          <mark>PhD thesis</mark>: Exploring the potential of specialized pro-resolving mediator biology in understanding the development and progression of inflammatory diseases using bioinformatics.
+          <mark>Technicals system used</mark>: Univariate and multivariate analysis (PCA, PLS-DA, correlation analysis), machine learning (Bayesian classifiers, Random forest, LASSO, SVM), HPC (LSF), RNA (Bulk and scRNA-Seq) data analysis (multiQC, STAR reads mapping, FeatureCount alignment, R Seurat), Differential Gene Expression analysis (EdgeR), Genome and Pheno-wide association analysis (UK Biobank, PLINK, Python, Linux, Bash, Anaconda), GO enrichment, Network and pathway analysis (Cytoscape, R Shiny, STRING, KEGG, Reactome), flow cytometry and liquid chromatography-mass spectrometry (lipidomics).  
+          <mark>Supervision experience</mark>: I mentored three master's students who were doing their master's dissertations in bioinformatics at QMUL. 
+    
 # Footer
 footer_show_references: true
 #references_title: References on request (Override references text)
