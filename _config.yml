@@ -39,9 +39,6 @@ content:
           - title: Machine-Learning-and-RA-treatment
             icon: fab fa-github
             url: github.com/eagomezc/Machine-Learning-and-RA-treatment
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           This repository contains the script used to study blood pro-resolving mediators as biomarkers to predict the response of DMARD treatment in rheumatoid arthritis patients.
       
@@ -54,9 +51,6 @@ content:
           - title: CG analysis in RA
             icon: fab fa-github
             url: github.com/eagomezc/CG-association-analysis-in-SPM-related-genes
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           This repository contains the scripts used to study the genetic associations between genetic variant in SPM-related genes and rheumatoid arthritis
         
@@ -69,9 +63,6 @@ content:
           - title: Retrotransposon_app
             icon: fab fa-github
             url: github.com/eagomezc/Retrotransposon_app
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           This repository contains the script used for the developing of a web-based application for the identification of retrotransposons in human genomes. 
       
@@ -84,9 +75,6 @@ content:
           - title: Marine oils in human health
             icon: fab fa-github
             url: github.com/eagomezc/2019_DGE_Correlation_Oil_supplements_study
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           This repository contains the scripts used to run the differential gene expression, GO enrichment and correlation analysis for the paper: "Enriched marine oils supplements increase peripheral blood SPM concentrations and reprogram host immune responses: A randomized double-blind placebo-controlled study"
           
@@ -94,10 +82,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Lipid Mediator Unit, QMUL
+        link: https://jdallilab.com/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        sub_title: Staff Scientist/PhD Student/Bioinformatician
         caption: November 2017 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -117,18 +105,6 @@ content:
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
