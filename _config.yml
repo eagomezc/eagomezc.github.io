@@ -114,16 +114,30 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+        #Education 1
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Queen Mary University of London
+        caption: 2019 - 2024
+        sub_title: PhD Biochemical Pharmacology
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+         Doctor of Philosophy (Focused in Bioinformatics). 
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          <mark>PhD thesis</mark>: Exploring the potential of specialized pro-resolving mediator biology in understanding the development and progression of inflammatory diseases using bioinformatics.
+          <mark>Technicals system used</mark>: Univariate and multivariate analysis (PCA, PLS-DA, correlation analysis), machine learning (Bayesian classifiers, Random forest, LASSO, SVM), HPC (LSF), RNA (Bulk and scRNA-Seq) data analysis (multiQC, STAR reads mapping, FeatureCount alignment, R Seurat), Differential Gene Expression analysis (EdgeR), Genome and Pheno-wide association analysis (UK Biobank, PLINK, Python, Linux, Bash, Anaconda), GO enrichment, Network and pathway analysis (Cytoscape, R Shiny, STRING, KEGG, Reactome), flow cytometry and liquid chromatography-mass spectrometry (lipidomics).  
+          <mark>Supervision experience</mark>: I mentored three master's students who were doing their master's dissertations in bioinformatics at QMUL. 
+    
+        #Education 2
+      - layout: left
+        title: Queen Mary University of London
+        caption: 2017 - 2018
+        sub_title: MSc. Bioinformatics
+        quote: >
+         Master in Science with an average of 82.37/100 equivalent to a Distinction. 
+        description: | # this will include new lines to allow paragraphs
+          <mark>Master dissertation</mark>: Searching for signatures of selection in a highly social insect – A population-genomics analysis. Ecology, evolution, genome-wide screening and genome assembly.
+          <mark>Developed Software - Database</mark>: Retrotransposon: a web-based database for the collection, identification and analysis of retrotransposons (SQLite, Flask, HTML, R).  
+          <mark>Relevant modules</mark>: Genome Bioinformatics, Coding for Scientifics, Post-Genomics Bioinformatics and Statistics.
+          <mark>Technicals system used</mark>: Genome assembly programs (SOAPdenovo and Masurca), Python (flow control, functions, objects, biopython), R and RStudio, machine learning, Proteomics tools (MetaboAnalysti, Expasy, I-Tasser). 
 
 # Footer
 footer_show_references: true
