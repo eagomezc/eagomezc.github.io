@@ -145,7 +145,7 @@ content:
           <mark>Technicals system used</mark>: Genome assembly programs (SOAPdenovo and Masurca), Python (flow control, functions, objects, biopython), R and RStudio, machine learning, Proteomics tools (MetaboAnalysti, Expasy, I-Tasser). 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 references_title: Powered by sproogen/resume-theme
 
 # Build settings
