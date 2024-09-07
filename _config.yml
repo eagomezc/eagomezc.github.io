@@ -24,7 +24,8 @@ orcid_username: 0000-0001-8028-416X
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Esteban. I'm PhD in science research with expertise in bioinformatics and machine learning applied to immunology, genomics, proteomics, and lipidomics. Experienced in developing predictive tools for health research, analyzing large-scale biological data, and working with programming languages like Python, R and Bash. My strong background in both bioinformatics and lab techniques helps me to bridging multidisciplinary teams to solve complex problems.
-
+ 
+  I'm currently interested in improving my skills in <mark>machine learning</mark> and developing <mark>Python</mark> applications for biological and health research. 
 content:
   - title: Repositories # Title for the section
     layout: list # Type of content section (list/text)
