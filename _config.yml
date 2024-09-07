@@ -14,13 +14,7 @@ email: eagomezcifuentes@gmail.com
 darkmode: true
 
 # Social links
-# twitter_username: facespics
 github_username:  eagomezc
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
 linkedin_username: eagomezc
 orcid_username: 0000-0001-8028-416X
 
@@ -42,20 +36,6 @@ content:
         # link_text: Project Website
         additional_links:
           - title: Machine-Learning-and-RA-treatment
-            icon: fab fa-solid fa-folder
-            url: github.com/eagomezc/Machine-Learning-and-RA-treatment
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          This repository contains the script used to study blood pro-resolving mediators as biomarkers to predict the response of DMARD treatment in rheumatoid arthritis patients.
-      # Repository 2
-      - layout: top-middle
-        title: Machine learning and rheumatoid arthritis treatments
-        link: github.com/eagomezc/Machine-Learning-and-RA-treatment
-        # link_text: Project Website
-        additional_links:
-          - title: Machine-Learning-and-RA-treatment
             icon: fab fa-github
             url: github.com/eagomezc/Machine-Learning-and-RA-treatment
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -64,6 +44,51 @@ content:
         description: | # this will include new lines to allow paragraphs
           This repository contains the script used to study blood pro-resolving mediators as biomarkers to predict the response of DMARD treatment in rheumatoid arthritis patients.
       
+      # Repository 2
+      - layout: top-middle
+        title: Genome association analysis and rheumatoid arthritis
+        link: github.com/eagomezc/CG-association-analysis-in-SPM-related-genes
+        # link_text: Project Website
+        additional_links:
+          - title: CG analysis in RA
+            icon: fab fa-github
+            url: github.com/eagomezc/CG-association-analysis-in-SPM-related-genes
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          This repository contains the scripts used to study the genetic associations between genetic variant in SPM-related genes and rheumatoid arthritis
+        
+        # Repository 3
+      - layout: top-middle
+        title: Retrotransposon database
+        link: github.com/eagomezc/Retrotransposon_app
+        # link_text: Project Website
+        additional_links:
+          - title: Retrotransposon_app
+            icon: fab fa-github
+            url: github.com/eagomezc/Retrotransposon_app
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          This repository contains the script used for the developing of a web-based application for the identification of retrotransposons in human genomes. 
+      
+      # Repository 4
+      - layout: top-middle
+        title: Enriched marine oils supplements effect in human health
+        link: github.com/eagomezc/2019_DGE_Correlation_Oil_supplements_study
+        # link_text: Project Website
+        additional_links:
+          - title: Marine oils in human health
+            icon: fab fa-github
+            url: github.com/eagomezc/2019_DGE_Correlation_Oil_supplements_study
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          This repository contains the scripts used to run the differential gene expression, GO enrichment and correlation analysis for the paper: "Enriched marine oils supplements increase peripheral blood SPM concentrations and reprogram host immune responses: A randomized double-blind placebo-controlled study"
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
