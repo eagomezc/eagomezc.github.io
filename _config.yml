@@ -78,7 +78,23 @@ content:
         description: | # this will include new lines to allow paragraphs
           This repository contains the scripts used to run the differential gene expression, GO enrichment and correlation analysis for the paper: "Enriched marine oils supplements increase peripheral blood SPM concentrations and reprogram host immune responses: A randomized double-blind placebo-controlled study"
           
-  
+  - title: Experience # Title for the section
+    # Experience 1
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Lipid Mediator Unit, QMUL
+        link: jdallilab.com/
+        sub_title: Staff Scientist/PhD Student/Bioinformatician
+        caption: 2018 - Present
+        quote: >
+          Innovative thinker, bioinformatics solutions, machine learning, wet-lab training
+        description: | # this will include new lines to allow paragraphs
+         <mark>Machine learning</mark>: I worked with machine learning methodologies: support vector machine, bayesian classifiers, and decision trees (R randomForest and caret, scikit-learn in Python) to predict the response of different treatments in patients with rheumatoid arthritis. The machine learning models were patented.  
+         <mark>Network analysis</mark>: I created small tools for the design of biosynthetic networks (Cytoscape, R Shiny) to identify different responses to treatments and up or down-regulation of immunological pathways.
+         <mark>Creative problem solving</mark>: The Lipid Mediator Unit is a multidisciplinary team that includes immunologists, chemists and biologists who rely on me to help them with multivariate analysis, statistics, gene expression analysis, data visualization, etc.
+         <mark>Lab skills</mark>: As bioinformaticians, it’s important to know where the data comes from; for that reason, I received training in mass spectrometry, flow cytometry, cell isolation and cell culture assays. 
+   
 # Footer
 footer_show_references: true
 #references_title: References on request (Override references text)
