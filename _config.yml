@@ -101,7 +101,7 @@ content:
     # Experience 2
       - layout: left
         title: Prospection and Design of Biomolecules group, UNAL
-        link: ciencias.medellin.unal.edu.co/gruposdeinvestigacion/prospeccionydisenobiomoleculas/
+        #link: ciencias.medellin.unal.edu.co/gruposdeinvestigacion/prospeccionydisenobiomoleculas/
         sub_title: Researcher
         caption: 2015 - 2017
         quote: >
@@ -126,6 +126,7 @@ content:
           <mark>Technicals system used</mark>: Univariate and multivariate analysis (PCA, PLS-DA, correlation analysis), machine learning (Bayesian classifiers, Random forest, LASSO, SVM), HPC (LSF), RNA (Bulk and scRNA-Seq) data analysis (multiQC, STAR reads mapping, FeatureCount alignment, R Seurat), Differential Gene Expression analysis (EdgeR), Genome and Pheno-wide association analysis (UK Biobank, PLINK, Python, Linux, Bash, Anaconda), GO enrichment, Network and pathway analysis (Cytoscape, R Shiny, STRING, KEGG, Reactome), flow cytometry and liquid chromatography-mass spectrometry (lipidomics).  
           <mark>Supervision experience</mark>: I mentored three master's students who were doing their master's dissertations in bioinformatics at QMUL. 
     
+     
 # Footer
 footer_show_references: true
 #references_title: References on request (Override references text)
