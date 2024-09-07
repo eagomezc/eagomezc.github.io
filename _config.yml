@@ -98,19 +98,7 @@ content:
          
          <mark>Lab skills</mark>: As bioinformaticians, it’s important to know where the data comes from; for that reason, I received training in mass spectrometry, flow cytometry, cell isolation and cell culture assays. 
         
-    # Experience 2
-      - layout: left
-        title: Prospection and Design of Biomolecules group, UNAL
-        link: ciencias.medellin.unal.edu.co/gruposdeinvestigacion/prospeccionydisenobiomoleculas/
-        sub_title: Researcher
-        caption: 2015 - 2017
-        quote: >
-          Fast learner, Proactive, Team work, bioinformatics and databases tools
-        description: | # this will include new lines to allow paragraphs
-          <mark>Fast learner</mark>: From scratch, I curated and designed a database of antimicrobial peptides (InverPep). I had to learn strategies to organize, curate and build the database. In addition to this, I developed a friendly user interface. 
-          
-          <mark>Proactive</mark>: The identification of bioactive peptides in proteomes was done manually. I developed a tool (PepMultiFinder) that based on physicochemical properties automatically identifies antimicrobial peptides. 
-          
+   
  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
